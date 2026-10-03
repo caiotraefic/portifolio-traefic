@@ -12,9 +12,9 @@
 window.PORTFOLIO = {
   capa: {
     kpis: [
-      { valor: "R$500K+", rotulo: "Faturamento gerado" },
+      { valor: "R$1MM+", rotulo: "Faturamento gerado" },
       { valor: "5.182%", rotulo: "ROAS máximo alcançado" },
-      { valor: "30+", rotulo: "Clientes atendidos" }
+      { valor: "50+", rotulo: "Clientes atendidos" }
     ]
   },
 
