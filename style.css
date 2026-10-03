@@ -71,7 +71,6 @@ button { font: inherit; color: inherit; cursor: pointer; }
   line-height: 0.95;
   text-transform: uppercase;
 }
-.capa h1 .nome { margin-right: 0.25em; }
 .capa h1 .gradiente { display: block; padding-right: 0.05em; }
 
 .capa-texto { max-width: 38rem; margin-top: 1.5rem; font-size: 1.125rem; color: var(--texto-suave); }
